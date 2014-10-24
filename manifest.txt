@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Pierre Vittet
+Main-class: net/sourceforge/javacardtools/Cap2IJC/Cap2IJC
+
